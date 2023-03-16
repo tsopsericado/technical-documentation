@@ -38,6 +38,14 @@ article {
 	overflow-y: auto;
 }
 
+section header {
+	font-size: 1.9em;
+}
+
+.main-section header {
+	margin-bottom: 20px;
+}
+
 #navbar header {
 	position: sticky;
 	top: 0;
@@ -59,14 +67,6 @@ article {
 	position: absolute;
 	margin-left: 340px;
 	padding: 40px;
-}
-
-section header {
-	font-size: 1.9em;
-}
-
-.main-section header {
-	margin-bottom: 20px;
 }
 
 .main-section p {
