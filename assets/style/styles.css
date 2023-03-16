@@ -32,54 +32,53 @@ article {
 	top: 0;
 	left: 0;
 	width: 22%;
-	height: 100%;
+	height: 99.9%;
 	border-right: solid;
 	border-color: #b3b5b6;
 	overflow-y: auto;
 }
 
-#navbar > header {
-	position: sticky;
-	top: 0;
-	text-align: center;
-	background-color: white;
-	padding: 20px;
-	font-size: 2em;
+#navbar>header {
+  position: sticky;  
+  top: 0;
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  font-size: 2em;
 }
 
 .nav-link {
-	text-decoration: none;
-	display: block;
-	border-top: 1px solid;
-	padding: 12px 30px;
-	font-size: 18px;
+  text-decoration: none;
+  display: block;
+  border-top: 1px solid;
+  padding: 12px 30px;
+  font-size: 18px;
 }
 
 #main-doc {
-	position: absolute;
-	margin-left: 340px;
-	padding: 40px;
+  position: absolute;
+  margin-left: 340px;
+  padding: 40px;
 }
 
-section > header {
-	font-size: 1.9em;
+section>header {
+  font-size: 1.9em;
 }
 
 .main-section header {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .main-section p {
-	margin-bottom: 18px;
+  margin-bottom: 18px;
 }
 
 article ul {
-	margin-left: 40px;
-	margin-top: 15px;
-	margin-bottom: 15px;
+  margin-left: 40px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 article li {
-	margin-bottom: 15px;
+  margin-bottom: 15px;
 }
-
