@@ -17,7 +17,6 @@ body {
   height: 100%;
   border-right: solid;
   border-color: #b3b5b6;
-  /* overflow-y: auto; */
 }
 
 header {
@@ -30,7 +29,7 @@ header {
 
 #main-doc header {
   text-align: left;
-  margin: 0px;
+  margin: 1px;
 }
 
 #navbar ul {
@@ -38,6 +37,10 @@ header {
   padding: 0;
   overflow-y: auto;
   overflow-x: hidden;
+}
+
+section li {
+  margin: 15px 1px 1px 20px;
 }
 
 #navbar li {
@@ -67,10 +70,6 @@ section article {
   color: #4d4e53;
   margin-left: 15px;
   font-size: 0.96em;
-}
-
-section li {
-  margin: 15px 0px 0px 20px;
 }
 
 code {
@@ -108,7 +107,7 @@ code {
 
   #main-doc {
     position: relative;
-    margin-left: 0px;
+    margin-left: 1px;
     margin-top: 270px;
   }
 }
